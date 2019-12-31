@@ -18,7 +18,7 @@ I am sparkandflash.
 [join the server](https://discord.gg/pJXNr9e)<br>
 
 ### minecraft server 
-```text me on discord if you want to play```
+```text me on discord if you want to play```<br>
 [server status](https://sparkandflash.aternos.me/)
 
 #### I need more friends :/
