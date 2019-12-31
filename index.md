@@ -25,17 +25,13 @@ _let's Genuate_</br>
 ```join my discord server to know more-```
 
 ![image](https://i.imgur.com/aLrCv0i.png)
-[join](https://discord.gg/pJXNr9e)
+[join the server](https://discord.gg/pJXNr9e)
 
-### Header 3
+### minecraft server 
 
-- Bulleted
-- List
+![image](https://static.wixstatic.com/media/d256d7_0033dc99ba614d7da64b866fe620e706~mv2.png/v1/fill/w_1175,h_269,al_c,q_80,usm_0.66_1.00_0.01/tyuty87.webp)<br>
+- text me on discord if you want to play
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
