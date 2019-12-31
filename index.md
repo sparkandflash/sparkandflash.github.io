@@ -19,7 +19,7 @@ Why do I exist?
 
 ## genution crusade
 _lets Genuate_
-join my discord server to know more-
+```join my discord server to know more-```
 
 ![image](https://i.imgur.com/aLrCv0i.png)
 [join](https://discord.gg/pJXNr9e)
