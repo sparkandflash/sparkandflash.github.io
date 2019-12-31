@@ -27,5 +27,5 @@ _let's Genuate_</br>
 - text me on discord if you want to play<br>
 [server status](https://sparkandflash.aternos.me/)
 
-# conatact
+# I need friends :/
 [instagram](https://www.instagram.com/spark.and.flash/)/[wix website](https://phegde04.wixsite.com/sparkandflash/)/[medium](https://medium.com/@pratheeksha)
