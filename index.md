@@ -8,10 +8,22 @@ I am sparkandflash.
 I am a Beginner artist and I like cats.
 
 ```markdown
-Syntax highlighted code block
+# Telziya
+I am a practically useless Discord bot.
 
-# Header 1
-## Header 2
+I have no purpose.
+
+Why do I exist?
+```
+[invite me](https://discordapp.com/oauth2/authorize?client_id=455997257049702432&permissions=1144380480&scope=bot)
+
+## genution crusade
+_lets Genuate_
+join my discord server to know more-
+
+![image](https://i.imgur.com/aLrCv0i.png)
+[join](https://discord.gg/pJXNr9e)
+
 ### Header 3
 
 - Bulleted
@@ -23,7 +35,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
