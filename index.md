@@ -24,7 +24,7 @@ _let's Genuate_</br>
 ```join my discord server to know more-```
 
 [join the server](https://discord.gg/pJXNr9e)
-<align>
+</align>
 ![image](https://i.imgur.com/aLrCv0i.png)
 
 ### minecraft server 
