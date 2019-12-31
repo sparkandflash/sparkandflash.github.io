@@ -19,8 +19,6 @@ Why do I exist?``
 ```join my discord server to know more-```<br>
 [join the server](https://discord.gg/pJXNr9e)<br>
 
-![image](https://i.imgur.com/aLrCv0i.png)
-
 ### minecraft server 
 - text me on discord if you want to play<br>
 [server status](https://sparkandflash.aternos.me/)
