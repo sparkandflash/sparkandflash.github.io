@@ -1,12 +1,11 @@
 ## Sparkandflash
 
-You can use the [editor on GitHub](https://github.com/sparkandflash/sparkandflash.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+hi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am sparkandflash.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About me
+I am a Beginner artist and I like cats.
 
 ```markdown
 Syntax highlighted code block
