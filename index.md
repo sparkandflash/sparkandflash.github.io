@@ -7,8 +7,9 @@ I am sparkandflash.
 # About me
 ``I am a Beginner artist and I like cats.``
 
-``
+
 # Telziya
+``
 I am a practically useless Discord bot.
 
 I have no purpose.
