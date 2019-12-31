@@ -18,7 +18,7 @@ Why do I exist?
 [invite me](https://discordapp.com/oauth2/authorize?client_id=455997257049702432&permissions=1144380480&scope=bot)
 
 ## genution crusade
-_lets Genuate_
+_let's Genuate_</br>
 ```join my discord server to know more-```
 
 ![image](https://i.imgur.com/aLrCv0i.png)
