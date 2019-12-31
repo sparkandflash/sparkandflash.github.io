@@ -1,31 +1,30 @@
 
 
-## Sparkandflash
-
-
 hi.
 
 I am sparkandflash.
 
-### About me
-I am a Beginner artist and I like cats.
+# About me
+``I am a Beginner artist and I like cats.``
 
-```markdown
+``
 # Telziya
 I am a practically useless Discord bot.
 
 I have no purpose.
 
 Why do I exist?
-```
+``
 [invite me](https://discordapp.com/oauth2/authorize?client_id=455997257049702432&permissions=1144380480&scope=bot)
 
-## genution crusade
+# genution crusade
 _let's Genuate_</br>
+
+<align=center> 
 ```join my discord server to know more-```
 
 [join the server](https://discord.gg/pJXNr9e)
-
+<align>
 ![image](https://i.imgur.com/aLrCv0i.png)
 
 ### minecraft server 
