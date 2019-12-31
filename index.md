@@ -9,22 +9,16 @@ I am sparkandflash.
 
 
 # Telziya
-``markdown
-I am a practically useless Discord bot.
-
+``I am a practically useless Discord bot.
 I have no purpose.
-
-Why do I exist?``<br>
-
+Why do I exist?``
+ 
 [invite me](https://discordapp.com/oauth2/authorize?client_id=455997257049702432&permissions=1144380480&scope=bot)
 
 # genution crusade
 _let's Genuate_</br>
 
-```join my discord server to know more-
-
-
-```
+```join my discord server to know more-```
 [join the server](https://discord.gg/pJXNr9e)<br>
 
 ![image](https://i.imgur.com/aLrCv0i.png)
