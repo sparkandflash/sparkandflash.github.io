@@ -1,19 +1,19 @@
 
 
-hi.
+hello there!!.
 
-I am sparkandflash.
+I am sparkandflash and this is my little .io site hosted on github.
 
 ### About me
 ``I am a Beginner artist and I like cats.``
 
-### genution crusade
+### Genution Crusade
 
 ```work in progress scifi fantasy story```
 ```join my discord server to know more-```<br>
 [join the server](https://discord.gg/pJXNr9e)<br>
 
-### minecraft server 
+### (dead)minecraft server 
 ```text me on discord if you want to play```<br>
 [server status](https://sparkandflash.aternos.me/)
 
