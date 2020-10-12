@@ -11,11 +11,11 @@ I am sparkandflash and this is my little .io site hosted on github.
 
 ```work in progress scifi fantasy story```
 ```join my discord server to know more-```<br>
-[join the server](https://discord.gg/pJXNr9e)<br>
+[click to join the server](https://discord.gg/pJXNr9e)<br>
 
 ### (dead)minecraft server 
 ```text me on discord if you want to play```<br>
-[server status](https://sparkandflash.aternos.me/)
+[click to see the server status](https://sparkandflash.aternos.me/)
 
 #### I need more friends :/
 [instagram](https://www.instagram.com/spark.and.flash/)/[wix website](https://phegde04.wixsite.com/sparkandflash/)/[medium](https://medium.com/@pratheeksha)
