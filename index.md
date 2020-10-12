@@ -7,13 +7,9 @@ I am sparkandflash.
 ### About me
 ``I am a Beginner artist and I like cats.``
 
-### Telziya
- ```practically useless Discord bot.```
- 
-[invite me](https://discordapp.com/oauth2/authorize?client_id=455997257049702432&permissions=1144380480&scope=bot)
-
 ### genution crusade
 
+```work in progress scifi fantasy story```
 ```join my discord server to know more-```<br>
 [join the server](https://discord.gg/pJXNr9e)<br>
 
