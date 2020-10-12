@@ -18,4 +18,4 @@ I am sparkandflash and this is my little .io site hosted on github.
 [click to see the server status](https://sparkandflash.aternos.me/)
 
 #### I need more friends :/
-[instagram](https://www.instagram.com/spark.and.flash/)/[wix website](https://phegde04.wixsite.com/sparkandflash/)/[medium](https://medium.com/@pratheeksha)
+[instagram](https://www.instagram.com/spark.and.flash/)/[medium](https://medium.com/@pratheeksha)
