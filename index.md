@@ -1,6 +1,6 @@
 
 
-hello there!!.
+hello there!
 
 I am sparkandflash and this is my little .io site hosted on github.
 
