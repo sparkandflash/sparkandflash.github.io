@@ -9,7 +9,8 @@ I am sparkandflash and this is my little .io site hosted on github.
 
 ### Genution Crusade
 
-```work in progress scifi fantasy story```<br>
+```work in progress scifi fantasy story```<br> 
+[medium](https://medium.com/@pratheeksha)
 ```join my discord server to know more-```<br>
 [click to join the server](https://discord.gg/pJXNr9e)<br>
 
@@ -17,5 +18,5 @@ I am sparkandflash and this is my little .io site hosted on github.
 ```text me on discord if you want to play```<br>
 [click to see the server status](https://sparkandflash.aternos.me/)
 
-#### I need more friends :/
-[instagram](https://www.instagram.com/spark.and.flash/)/[medium](https://medium.com/@pratheeksha)
+### My art profiles
+[instagram](https://www.instagram.com/spark.and.flash/) [artstation](https://sparkandflash.artstation.com) [artpal](https://www.artpal.com/phegde04) [deviantart](https://www.deviantart.com/sparkandflash)
