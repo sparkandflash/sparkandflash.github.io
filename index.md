@@ -10,7 +10,7 @@ I am sparkandflash and this is my little .io site hosted on github.
 ### Genution Crusade
 
 ```work in progress scifi fantasy story```<br> 
-[medium](https://medium.com/@pratheeksha)
+[medium](https://medium.com/@pratheeksha)<br>
 ```join my discord server to know more-```<br>
 [click to join the server](https://discord.gg/pJXNr9e)<br>
 
