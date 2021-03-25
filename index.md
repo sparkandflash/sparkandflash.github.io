@@ -2,10 +2,10 @@
 
 hello there!
 
-I am sparkandflash and this is my little .io site hosted on github.
+this is my little .io site.
 
 ### About me
-I like cats.
+artist/I like cats.
 
 ### Genution Crusade
 
