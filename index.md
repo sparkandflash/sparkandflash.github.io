@@ -5,17 +5,17 @@ hello there!
 I am sparkandflash and this is my little .io site hosted on github.
 
 ### About me
-``I am a Beginner artist and I like cats.``
+I like cats.
 
 ### Genution Crusade
 
-```work in progress scifi fantasy story```<br> 
+work in progress scifi fantasy story<br> 
 [medium](https://medium.com/@pratheeksha)<br>
-```join my discord server to know more-```<br>
+join my discord server to know more-<br>
 [click to join the server](https://discord.gg/pJXNr9e)<br>
 
 ### (dead)minecraft server 
-```text me on discord if you want to play```<br>
+text me on discord if you want to play<br>
 [click to see the server status](https://sparkandflash.aternos.me/)
 
 ### My art profiles
