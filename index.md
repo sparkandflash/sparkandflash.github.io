@@ -1,7 +1,4 @@
-<h1>pratheeksha hegde</h1>
-<i>student</i> <br>
-<i>Dept. of CSE, SDMIT -Ujire</i>
-<hr>
+
 hello there!
 
 this is my little .io site.
