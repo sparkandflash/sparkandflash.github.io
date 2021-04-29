@@ -6,7 +6,7 @@ this is my little .io site.
 
 ### About me
 artist/I like cats.
-
+<hr>
 ### Genution Crusade
 
 work in progress scifi fantasy story<br> 
