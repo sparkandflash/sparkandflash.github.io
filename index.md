@@ -1,6 +1,6 @@
 <h1>pratheeksha hegde</h1>
-    <i>student</i>
-    <i>Dept. of CSE, SDMIT -Ujire</i>
+<i>student</i> <br>
+<i>Dept. of CSE, SDMIT -Ujire</i>
 <hr>
 hello there!
 
